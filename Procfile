@@ -1,1 +1,1 @@
-web: gunicorn animepass.wsgi
+web: gunicorn funproject.wsgi --log-file -
